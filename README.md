@@ -1,7 +1,8 @@
 # translate-app
 ------------------------
 
-This App base on Google Translator API, Soundplay and Tkinter, which can translate text to text with up to 64 languages in the world. \\
+This App base on Google Translator API, Soundplay and Tkinter, which can translate text to text with up to 64 languages in the world.
+
 The Soundplay provided audio voice library, which helps pronuciation of indicative text.
 
 ------------------------
