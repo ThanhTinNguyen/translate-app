@@ -9,12 +9,12 @@ The Soundplay provided audio voice library, which helps pronuciation of indicati
 
 1. Download Respository
 2. Set up environment, install those library:
-        + tkinter
-        + PIL
-        + googletrans
-        + win32com.client
-        + soundplay
-        + gtts
+         tkinter
+         PIL
+         googletrans
+         win32com.client
+         soundplay
+         gtts
 3. Run "app.py"
 
 ------------------------
