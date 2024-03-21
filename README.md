@@ -8,7 +8,7 @@ The Soundplay provided audio voice library, which helps pronuciation of indicati
 ------------------------
 
 1. Download Respository
-2. Set up environment, install those library:
+2. Set up environment, install libraries:
         - tkinter
         - PIL
         - googletrans
